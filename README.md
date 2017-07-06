@@ -12,11 +12,11 @@
 ### 初始状态：
 ![image](http://github.com/1030514211/Experiment_1First/raw/master/image/1.jpg)</br>
 ### 最高优先数优先（静态）
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_1.jpg)</br>
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_2.jpg)</br>
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_3.jpg)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_1.png)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_2.png)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_3.png)</br>
 ### 最高优先数优先（动态）
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri2_1.jpg)</br>
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri2_2.jpg)</br>
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri2_3.jpg)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri2_1.png)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri2_2.png)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri2_3.png)</br>
 
