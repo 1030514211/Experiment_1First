@@ -10,7 +10,7 @@
 注意：该程序一次只能执行一个功能，即假如想运行静态方法，则运行完静态方法不能再选择动态方法，必须重新运行程序，才能选择动态方法。</br>
 </br>
 ### 初始状态：
-![image](http://github.com/1030514211/Experiment_1First/raw/master/image/1.jpg)</br>
+![image](http://github.com/1030514211/Experiment_1First/raw/master/image/1.png)</br>
 ### 最高优先数优先（静态）
 ![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_1.png)</br>
 ![image](http://github.com/1030514211/Experiment_1First/raw/master/image/pri1_2.png)</br>
